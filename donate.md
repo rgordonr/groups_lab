@@ -7,7 +7,7 @@ The Sociology Group Processes Lab Fund provides funding to students within the d
 research and other initiatives.
 
 Contributions can be made online or through personal check.
-Online link:
+Online link: [http://ter.ps/SOCYgroupLab](http://ter.ps/SOCYgroupLab)
 
 Check payment:
 Please make check payable to: UMCPF (University of Maryland College Park Foundation)
