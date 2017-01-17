@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 <a href="{{ site.baseurl }}/about">About</a>
+
 <a href="{{ site.baseurl }}/donate">Donate</a>
 
 You can use the [editor on GitHub](https://github.com/rgordonr/test2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
