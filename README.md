@@ -1,4 +1,4 @@
-## Welcome to the homepage for the University of Maryland Group Processes Lab
+## University of Maryland Group Processes Lab
 
 <a href="{{ site.baseurl }}/about">About</a>
 
