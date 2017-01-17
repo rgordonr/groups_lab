@@ -13,12 +13,12 @@ Online link: [http://ter.ps/SOCYgroupLab](http://ter.ps/SOCYgroupLab)
 Check payment:
 Please make check payable to: UMCPF (University of Maryland College Park Foundation)
 
-> # Please mail to:
-> College of Behavioral and Social Sciences
-> Office of External Relations
-> 0145 Tydings Hall
-> University of Maryland
-> College Park, MD 20742
+Please mail to:
+College of Behavioral and Social Sciences
+Office of External Relations
+0145 Tydings Hall
+University of Maryland
+College Park, MD 20742
 
 Please indicate the fund name and/or account number on the memo line. 
 
