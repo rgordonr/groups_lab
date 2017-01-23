@@ -6,6 +6,8 @@ follow these procedures:
 3. Complete the "Social and Behavioral Responsible Conduct of Research" course
 4. Make an account on www.irbnet.org, and upload your CITI certificate of completion in the User Profile section
 
+Reading Assignment:
+
 - <a href="{{ site.baseurl }}/Lovaglia 2003 the power of experiments.pdf">Lovaglia (2003)</a>
 - <a href="{{ site.baseurl }}/Lucas 2003 the problem of external validity.pdf">Lucas (2003)</a>
 
