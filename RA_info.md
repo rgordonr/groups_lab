@@ -12,4 +12,4 @@ Reading Assignment:
 - <a href="{{ site.baseurl }}/Lovaglia 2003 the power of experiments.pdf">Lovaglia (2003)</a>
 - <a href="{{ site.baseurl }}/Lucas 2003 the problem of external validity.pdf">Lucas (2003)</a>
 
-
+Don't forget to complete your bio! You can email it to me (along with a photo) at rrinderk@umd.edu
