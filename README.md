@@ -1,5 +1,5 @@
 <div style="text-align:center"><img src="lablogo.png" alt="logo" class="inline"/></div>
-
+<br><br>
 ## University of Maryland Group Processes Lab
 
 - <a href="{{ site.baseurl }}/about">About</a>
