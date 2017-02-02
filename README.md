@@ -1,4 +1,4 @@
-<img src="lablog.png" alt="logo" class="inline"/>
+<img src="/lablog.png" alt="logo" class="inline"/>
 
 ## University of Maryland Group Processes Lab
 
