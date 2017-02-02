@@ -1,7 +1,7 @@
 <div style="text-align:center"><img src="lablogo.png" alt="logo" class="inline"/></div>
 <br><br>
 
-<center><b>## University of Maryland Group Processes Lab</b></center>
+<center><b><p style="font-size:20px">University of Maryland Group Processes Lab</p></b></center>
 
 - <a href="{{ site.baseurl }}/about">About</a>
 - <a href="{{ site.baseurl }}/donate">Donate</a>
