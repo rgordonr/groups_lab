@@ -1,3 +1,5 @@
+<img src="lablog.png" alt="logo" class="inline"/>
+
 ## University of Maryland Group Processes Lab
 
 - <a href="{{ site.baseurl }}/about">About</a>
