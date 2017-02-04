@@ -3,7 +3,8 @@ follow these procedures:
 
 1. Make an account at: www.citiprogram.org
 2. Affiliate with the University of Maryland College Park
-3. Complete the "Social and Behavioral Responsible Conduct of Research" course
+3. Click "Add a Course," then select "Social & Behavioral Research Investigators"
+4. Complete the Required Modules in the "Social & Behavioral Research - Basic/Refresher" course. 
 4. Make an account on www.irbnet.org, and upload your CITI certificate of completion in the User Profile section
 
 
