@@ -25,4 +25,4 @@ Assigned 2/10/17:
 
 - <a href="https://umd.box.com/s/hx4h5r825txk2s3duevzdnvqq26o3uxf">The Instrument</a>
 - <a href="https://umd.box.com/s/eeliwi5jo5p78bei2e6mgb88e60ekqer">Session 1 Protocol</a>
-- <a href="https://umd.box.com/s/eeliwi5jo5p78bei2e6mgb88e60ekqer">Session 2 Protocol</a>
+- <a href="https://umd.box.com/s/efa5ibq3r77hgermz3zp9ulgy5uitjw2">Session 2 Protocol</a>
