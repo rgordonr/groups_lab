@@ -21,7 +21,7 @@ Future assignment (we will provide the password at our next lab meeting):
 
 
 ---
-Assigned: 2/10/17
+Assigned 2/10/17:
 
 - <a href="https://umd.box.com/s/hx4h5r825txk2s3duevzdnvqq26o3uxf">The Instrument</a>
 - <a href="https://umd.box.com/s/eeliwi5jo5p78bei2e6mgb88e60ekqer">Session 1 Protocol</a>
