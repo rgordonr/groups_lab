@@ -19,3 +19,5 @@ Depending on the particular study, we may allow several extra sign-ups per sessi
 ## Participate
 
 Now that you're aware of our policies, please click the "Participate" button below and you'll be taken to our scheduling page. Please don't hesitate to contact us with any questions or comments. Thank you again for your interest in participating.
+
+[PARTICIPATE](umdgroupslab.sona-systems.com)
