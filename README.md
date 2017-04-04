@@ -6,6 +6,7 @@
 - <a href="{{ site.baseurl }}/about">About</a>
 - <a href="{{ site.baseurl }}/donate">Donate</a>
 - <a href="{{ site.baseurl }}/RA_info">Information for Undergraduate Researchers</a>
+- <a href="{{ site.baseurl }}/RA_info">Interested in Participating?</a>
 
 More Content Soon!
 
