@@ -10,7 +10,7 @@ If you are a no-show <b>twice</b> for a study, <b>you will no longer be able to 
 
 ## Scheduling
 
-Once you have read this page and click participate, you will be taken to our scheduling page. The page will ask you for a username and password. You will use your IU username but <b>not your UMD passphrase</b> for security reasons. Instead, if you do not already have a password, <b>click "Request Account"</b> on the lower right-hand corner of the page to request a password. You should then receive a temporary password in your email. If you haven't received your temporary password within an hour, please email us at groupslab@umd.edu.
+Once you have read this page and click participate, you will be taken to our scheduling page. The page will ask you for a username and password. You will use your UMD username but <b>not your UMD passphrase</b> for security reasons. Instead, if you do not already have a password, <b>click "Request Account"</b> on the lower right-hand corner of the page to request a password. You should then receive a temporary password in your email. If you haven't received your temporary password within an hour, please email us at groupslab@umd.edu.
 
 ## Extra Slots
 
