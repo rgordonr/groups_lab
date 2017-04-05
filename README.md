@@ -8,5 +8,19 @@
 - <a href="{{ site.baseurl }}/RA_info">Information for Undergraduate Researchers</a>
 - <a href="{{ site.baseurl }}/participate">Interested in Participating?</a>
 
-More Content Soon!
+## Location 
 
+University of Maryland<br>
+2112 Parren Mitchell Art-Sociology Building<br>
+3834 Campus Dr<br>
+College Park, MD 20742<br>
+
+## Contact
+<a href="https://socy.umd.edu/facultyprofile/Doan/Long"><b>Long Doan</b></a><br>
+Lab Director<br>
+Assistant Professor of Sociology<br>
+Art-Sociology Building<br>
+
+<a href="https://socy.umd.edu/gradprofile/Rinderknecht/R.%20Gordon"><b>R. Gordon Rinderknecht</b></a><br>
+Assistant Lab Director<br>
+Art-Sociology Building<br>
