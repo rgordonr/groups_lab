@@ -2,6 +2,12 @@
 
 Thank you for your interest in participating in our studies. Before you sign up for a study, here's a few things you should know:
 
+## Directions
+
+The Art-Sociology building can be difficult to navigate. Here are some instructions for navigating to our lab through the front entrance (the double doors across from the water fountain): 
+
+Once you enter the building, you should see an elevator to your right. Take this elevator down a level (select 1F). Now, exit the elevator and take a right. Proceed to the end of the hall. You should now start seeing Group Processes Lab messages directing you to the lab, which you'll find just to the left of Seminar Room 1117.
+
 ## No-Show Policy
 
 In order to ensure that everyone who's interested in participating gets a chance to participate, please be aware that if you sign up for a study and can no longer make it to the study, you have to cancel your appointment at least <b>24 hours</b> before your appointment. Our scheduling program will easily allow you to do this. <b>If an emergency comes up</b> and you have to cancel last minute, <b>send us an email</b> to let us know.
