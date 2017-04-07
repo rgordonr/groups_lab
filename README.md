@@ -21,6 +21,11 @@ Lab Director<br>
 Assistant Professor of Sociology<br>
 Art-Sociology Building<br>
 
+<a href="https://socy.umd.edu/facultyprofile/Lucas/Jeff"><b>Jeff Lucas</b></a><br>
+Associate Dean of Research<br>
+Professor of Sociology<br>
+Art-Sociology Building<br>
+
 <a href="https://socy.umd.edu/gradprofile/Rinderknecht/R.%20Gordon"><b>R. Gordon Rinderknecht</b></a><br>
 Assistant Lab Director<br>
 Art-Sociology Building<br>
