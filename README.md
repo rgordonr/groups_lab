@@ -7,6 +7,7 @@
 - <a href="{{ site.baseurl }}/donate">Donate</a>
 - <a href="{{ site.baseurl }}/RA_info">Information for Undergraduate Researchers</a>
 - <a href="{{ site.baseurl }}/participate">Interested in Participating?</a>
+- <a href="{{ site.baseurl }}/data">Research Data</a>
 
 ## Location 
 
